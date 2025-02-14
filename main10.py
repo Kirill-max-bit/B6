@@ -6,7 +6,8 @@ def print_numbers_with_square_not_exceeding_n(n):
             break
         print(i, end=" ")
         i += 1
-    print()  
+    print()
+
 
 def find_first_number_with_square_greater_than_n(n):
     i = 1
