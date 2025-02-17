@@ -39,5 +39,3 @@ result = analyze_number(number)
 print(f"Анализ числа {number}:")
 for key, value in result.items():
     print(f"{key}: {value}")
-
-# Попробуйте другие числа, изменив значение переменной number
